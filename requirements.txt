@@ -2,4 +2,4 @@ joblib==1.0.1
 pandas==1.2.4
 streamlit==0.85.1
 numpy==1.19.5
-scikit_learn==0.24.2
+pycaret==2.3.3
